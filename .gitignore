@@ -1,3 +1,19 @@
-email-agent-venv
+# git credentials keys
 git_credentails
 git_credentails.pub
+
+# Virtual Environment
+email-agent-venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Environment Variables
+.env
